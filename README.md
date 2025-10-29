@@ -8,4 +8,6 @@ reassembly of fragmented artifacts and engravings
 * Ruiwen He, Léonard de Vinci, Paris La Défense, France
 * Karim Hammoudi, UHA, IRIMAS, Mulhouse, France
 
-If you need any assistance regarding the code for experiminting our approach, do not hesitate to contact me at: ahmedhazem10119@gmail.com
+# Experimenting on the source code
+If you need any assistance regarding the code for experimenting our approach, do not hesitate to contact me at: ahmedhazem10119@gmail.com
+
