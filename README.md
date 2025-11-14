@@ -11,7 +11,7 @@ reassembly of fragmented artifacts and engravings
 # Experimenting on the source code
 
 To experiment on the code first, you would need to execute the extracting2Dviews.py code wich extracts the 2D views from a given 3D object.
-Using the extracted images, you could execute the blocks of model_OVMLP.ipynb sequentially to apply our methodology
+Using the extracted images, you could execute the blocks of model_OVMLP.ipynb sequentially to apply our methodology.
 If you need any assistance regarding the code for experimenting our approach, do not hesitate to contact me at: ahmed-hazem.youssef@imt-nord-europe.fr
 
 # Reference
