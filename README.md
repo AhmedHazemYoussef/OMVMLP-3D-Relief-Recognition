@@ -9,9 +9,12 @@ reassembly of fragmented artifacts and engravings
 * Karim Hammoudi, UHA, IRIMAS, Mulhouse, France
 
 # Experimenting on the source code
-If you need any assistance regarding the code for experimenting our approach, do not hesitate to contact me at: ahmedhazem10119@gmail.com
 
-#Reference
+To experiment on the code first, you would need to execute the extracting2Dviews.py code wich extracts the 2D views from a given 3D object.
+Using the extracted images, you could execute the blocks of model_OVMLP.ipynb sequentially to apply our methodology
+If you need any assistance regarding the code for experimenting our approach, do not hesitate to contact me at: ahmed-hazem.youssef@imt-nord-europe.fr
+
+# Reference
 
 G. Paolini, C. Tortorici, S. Berretti, A. H. Youssef, H. Benhabiles, A. Cabani, R. He, K. Hammoudi, I. I. Ganapathi, S. S. Ali, D. Velayudhan, M. Assefa, N. Werghi. Shrec’25 track on multiple relief patterns: Report and analysis, 2025. https://doi.org/10.48550/ARXIV.2508.09909
 ```bibtex
