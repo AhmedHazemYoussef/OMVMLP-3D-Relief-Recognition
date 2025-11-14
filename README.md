@@ -11,3 +11,15 @@ reassembly of fragmented artifacts and engravings
 # Experimenting on the source code
 If you need any assistance regarding the code for experimenting our approach, do not hesitate to contact me at: ahmedhazem10119@gmail.com
 
+#Reference
+
+G. Paolini, C. Tortorici, S. Berretti, A. H. Youssef, H. Benhabiles, A. Cabani, R. He, K. Hammoudi, I. I. Ganapathi, S. S. Ali, D. Velayudhan, M. Assefa, N. Werghi. Shrec’25 track on multiple relief patterns: Report and analysis, 2025. https://doi.org/10.48550/ARXIV.2508.09909
+```bibtex
+@Article{Paolini2025,
+  author    = {Paolini, G. and Tortorici, C. and Berretti, S. and Youssef, A. H. and Benhabiles, H. and Cabani, A. and He, R. and Hammoudi, K. and Ganapathi, I. I. and Ali, S. S. and Velayudhan, D. and Assefa, M. and Werghi, N.},
+  title     = {SHREC’25 Track on Multiple Relief Patterns: Report and Analysis},
+  journal   = {arXiv preprint arXiv:2508.09909},
+  year      = {2025},
+  doi       = {10.48550/ARXIV.2508.09909},
+  url       = {https://doi.org/10.48550/ARXIV.2508.09909}
+}
